@@ -28,6 +28,7 @@ const factorial = function(num) {
     result *= num;
   }
   return result;
+  
 };
 
 // Do not edit below this line
